@@ -10,7 +10,6 @@ body {
 img {
     max-width: 100%; /* DO NOT delete or change this line */
 }
-
 /* ----- SUGGESTED COLORS -----
     - ARTICLES
     B26219 cinnamon
@@ -27,8 +26,14 @@ img {
    999 light medium gray
    ccc pale gray
    fff white
-*/
+*/ 
 
+/* classes */
+
+.cougar {
+    background: #B26219;
+    color: #FFD5AE
+}
 
 /* --- link pseudo classes --- */
 /* --- you may ADD other link pseudo classes for
